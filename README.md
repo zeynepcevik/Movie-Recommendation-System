@@ -1,6 +1,6 @@
 
-# Movie Recommendation System using Heap-Based Collaborative Filtering
-
+# Movie Recommendation System using Heap-Based Collaborative Filtering  
+ 
 ## Project Topic:
 
 This project centers on the development of a movie recommendation system utilizing heap-based collaborative filtering. Collaborative filtering, a prevalent technique in recommendation systems, leverages the preferences of akin users to provide personalized movie recommendations. The heap-based approach implemented here involves employing a heap data structure to efficiently store users most similar to the target user.
